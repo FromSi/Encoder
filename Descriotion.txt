@@ -1,0 +1,15 @@
+Была поставлена цель: https://trello.com/c/lz7t9sBk/5-- (Разработать прностой шифровальщик)
+Программа может:
+1. Создавать файлы для записи;
+2. Читать файлы;
+3. Шифровать символы;
+4. Дешифровать символы;
+5. Ищет ошибки пользователя (При открытии несуществующего файла).
+
+The goal was set: https://trello.com/c/lz7t9sBk/5-- (Develop a cryptographer)
+The program can:
+1. Create files for writing;
+2. Read the files;
+3. Encrypt symbols;
+4. Decrypt characters;
+5. Look for user errors (When opening a nonexistent file).
